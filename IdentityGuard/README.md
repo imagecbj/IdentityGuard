@@ -7,6 +7,6 @@ Concat the attacks and scripts folders with the same name folders in Anti-DreamB
 
 Then conduct
 ```
-bash scripts/TSCA.sh 
+bash scripts/IdentityGuard.sh 
 ```
 
